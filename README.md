@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheMbalist
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web development and Back-end
 - 🌱 I’m currently learning ASP.Net Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
