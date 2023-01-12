@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheMbalist
 - 👀 I’m interested in Web development and Back-end
-- 🌱 I’m currently learning HTML, CSS, JavaScript anf ASP.Net Core
+- 🌱 I’m currently learning HTML, CSS, JavaScript and ASP.Net Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
