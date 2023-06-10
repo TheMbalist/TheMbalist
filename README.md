@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheMbalist
 - 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning C#, HTML, CSS and Java
+- 🌱 I’m currently learning C#, jQuery, HTML, CSS and Java
 - 💞️ I’m looking to collaborate on: Mainly looking for someone I can learn and grow with on my coding and development journey
 - 📫 How to reach me: @the.mbalist (Instagram), @TheMbalist (Twitter)
 
