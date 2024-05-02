@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mbali</h1>
+<h1 align="center">Hi There👋, I'm Mbali!</h1>
 <h3 align="center">An Aspiring Data and Software Engineer</h3>
 
 - 🔭 I’m currently working on [TBR Manager](https://github.com/TheMbalist/TBRManagerAPI)
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mbaalee25@gmail.com**
 
-- ⚡ Fun fact **If I'm not coding I'm reading a book.**
+- ⚡ Fun fact **If I'm not coding I'm curled up reading a book.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
