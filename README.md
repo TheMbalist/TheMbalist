@@ -1,9 +1,9 @@
 <h1 align="center">Hi There👋, I'm Mbali!</h1>
-<h3 align="center">An Aspiring Data and Software Engineer</h3>
+<h3 align="center">I'm an Informatics Student and an Aspiring Data and Software Engineer</h3>
 
 - 🔭 I’m currently working on [TBR Manager](https://github.com/TheMbalist/TBRManagerAPI)
 
-- 🌱 I’m currently learning **C#, Java, JavaScript, R, Python, Angular, HTML, CSS, Ionic**
+- 🌱 I’m currently teaching myself **Java, Python and React**
 
 - 👯 I’m looking to collaborate on **learning and improving my tech skills**
 
