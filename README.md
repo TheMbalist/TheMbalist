@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mbali</h1>
-<h3 align="center">An Aspiring Data and Software Engineer and Informatics(Information Systems) Student</h3>
+<h3 align="center">An Aspiring Data and Software Engineer</h3>
 
 - 🔭 I’m currently working on [TBR Manager](https://github.com/TheMbalist/TBRManagerAPI)
 
