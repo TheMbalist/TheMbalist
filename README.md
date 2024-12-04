@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mbali</h1>
 <h3 align="center">An Aspiring Data and Software Engineer and Informatics Student</h3>
 
-- 🔭 I currently working on [Culinary Vacation Planner](https://github.com/TheMbalist/Cullinary-Vaction-Planner)
+- 🔭 I am currently working on [Culinary Vacation Planner](https://github.com/TheMbalist/Cullinary-Vaction-Planner)
 
 - 🌱 I’m currently reaching myself **Java, Python, React**
 
