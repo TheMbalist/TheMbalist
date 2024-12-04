@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mbali</h1>
 <h3 align="center">An Aspiring Data and Software Engineer and Informatics Student</h3>
 
-- 🔭 I recently completed [TBR Manager](https://github.com/TheMbalist/TBRManagerAPI)
+- 🔭 I currently working on [Culinary Vacation Planner](https://github.com/TheMbalist/Cullinary-Vaction-Planner)
 
 - 🌱 I’m currently reaching myself **Java, Python, React**
 
-- 👯 I’m looking to collaborate on **learning and improving my tech skiils**
+- 👯 I’m looking to collaborate on **learning and improving my tech skills**
 
 - 🤝 I’m looking for help with **how to write optimal code**
 
