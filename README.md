@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working on [Culinary Vacation Planner](https://github.com/TheMbalist/Cullinary-Vaction-Planner)
 
-- 🌱 I’m currently reaching myself **Java, Python, React**
+- 🌱 I’m currently reaching myself **Java and Python**
 
 - 👯 I’m looking to collaborate on **learning and improving my tech skills**
 
