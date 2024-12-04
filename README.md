@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mbali</h1>
-<h3 align="center">An Aspiring Data and Software Engineer and Informatics Student</h3>
+<h3 align="center">An Aspiring Data Engineer and Informatics Student</h3>
 
 - 🔭 I am currently working on [Culinary Vacation Planner](https://github.com/TheMbalist/Cullinary-Vaction-Planner)
 
